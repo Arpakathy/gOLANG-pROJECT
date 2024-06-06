@@ -1,8 +1,8 @@
 replicaCount: 1
 
 image:
-  repository: my-go-app
-  tag: latest
+  repository: suzieutrains/go-server
+  tag: 1.0
   pullPolicy: IfNotPresent
 
 service:
